@@ -4,8 +4,9 @@ body {
 	text-shadow: 0 0 2px rgba(0,0,0,0.5);
 	background-color: #00a8ff;
 	font-style: bold;
-	min-width: 400px;
+	/*min-width: 300px;*/
    overflow:hidden;
+   margin-right:0px;
 }
 h1{color:#fff;}
 .tedsdad {
@@ -18,7 +19,7 @@ h1{color:#fff;}
 .ted {
    width: 32px;
    height:64px;
-   background-image: url("https://orig06.deviantart.net/6cb8/f/2013/272/3/1/tedd_by_ratherjolly-d6offw6.gif");
+   background-image: url("https://github.com/Ratherjolly/Ratherjolly.github.io/blob/master/Assets/GIF/Ted_Walking.gif?raw=true");
    position:fixed;
    cursor:pointer !important;
    pointer-events: auto;
@@ -86,8 +87,6 @@ h1{color:#fff;}
    animation: drop 0.3s ease-in-out 0s forwards,
       drop3 1s ease-in-out 0s infinite;
 }
-
-
 @keyframes drop {
   0% {
     margin-top: 0;
