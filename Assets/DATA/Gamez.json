@@ -1,17 +1,10 @@
-var category = {
-    "JAM":"GAME JAM",
-    "PERSONAL":"PERSONAL PROJECT",
-    "STUDENT":"STUDENT PROJECT",
-    "COMPANY":"COMPANY PROJECT"
-  };
-
-var Emps = [
+[
     {"id": 0,
     "name": "Grave Robin",
     "pitch": "Top Down Stealth Game for Robin Graves... Grave Robin...",
     "MainRole": "AUDIO",
     "year": "2012",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"I helped create this game during a Ludum Dare Game jam over an insane weekend of Night Shifts and Finals.<br/>"+
             "I had the fortune of working on this with my good friends Troy Sanders and Dayton Murphy...<br/><br/>"+
             "Devistatingly, Dayton is no longer with us. ",
@@ -21,7 +14,7 @@ var Emps = [
     "pitch": "Climb the ranks of game development...As a Lich",
     "MainRole": "PROJECT LEAD,PROGRAMMER,AUDIO,DESIGNER",
     "year": "2012",
-    "category":category.STUDENT,
+    "category":"STUDENT PROJECT",
     "desc":"Lich is a topdown minion-adventure made in GameMaker.<br/>"+
             "This game was made in conjuction with a team of 3 others: Adam Ruef, Kristopher Fournier, and Courtney Schwark.<br/>"+    
             "THE STORY:<br/>"+
@@ -37,7 +30,7 @@ var Emps = [
     "pitch": "Run away with your heart in this Dynamic platformer from the police who want to arrest you.",
     "MainRole": "AUDIO,PROGRAMMER",
     "year": "2013",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"Cardiac Arrest is a game made at the GLOBAL GAME JAM<br/>"+
             "I made this game over a weekend with:TROY SANDERS, PETER BARTOSCH and ADAM SCHULTZ.<br/>"+
             "For this game I helped design as well as create the Music/Sound Effects.<br/>"+
@@ -48,7 +41,7 @@ var Emps = [
     "pitch": "2D Pixelated horror game",
     "MainRole": "EVERYTHING",
     "year": "2013",
-    "category":category.STUDENT,
+    "category":"STUDENT PROJECT",
     "desc":"NO_EXPANTION is a pixelated survivor-horror game."+
             "This was a 2-month solo project I took on to better understand/manage all aspects of what it takes to complete a full game."+
             "To make NO_EXPANSION I utilized:"+
@@ -62,7 +55,7 @@ var Emps = [
     // "pitch": "A Colorfully interactive D.A.W. that plays like a game",
     // "MainRole": "PROGRAMMER,AUDIO,DESIGNER",
     // "year": "2013",
-    // "category":category.STUDENT,
+    // "category":"STUDENT PROJECT",
     // "desc":"Programming Wizard of epic proportions",
     // "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/profile.png"},
     {"id": 5,
@@ -70,7 +63,7 @@ var Emps = [
     "pitch": "Side Scrolling Inventory Management Game based on your mood",
     "MainRole": "PROGRAMMER,AUDIO",
     "year": "2014",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"Entering Products and automating workflows? ...No Problem!",
     "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/wtfa_ss_gameplay.png"},
     //  {"id": 6,
@@ -78,7 +71,7 @@ var Emps = [
     // "pitch": "3D Puzzle platformer",
     // "MainRole": "EVERYTHING",
     // "year": "2014",
-    // "category":category.PERSONAL,
+    // "category":"PERSONAL PROJECT",
     // "desc":"It's raining cubes, haleylouia, it's raining cube... hey hey!",
     // "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/MB.png"},
      {"id": 7,
@@ -86,7 +79,7 @@ var Emps = [
     "pitch": "Protect your planet from astroids and save the astronaunts",
     "MainRole": "AUDIO",
     "year": "2014",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"Another Matt in the world to be awesoem!",
     "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/PlanetCrasher_1.png"},
      {"id": 8,
@@ -94,7 +87,7 @@ var Emps = [
     "pitch": "Multiplayer Prison escape simulator where it's fun to shank each other for no reason",
     "MainRole": "AUDIO,PROGRAMMER",
     "year": "2015",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"Helping the customer feels better than helping a loved one!",
     "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/STAHPE.png"},
      {"id": 9,
@@ -102,7 +95,7 @@ var Emps = [
     "pitch": "Live out your short life and make it the best bleeping party you can.",
     "MainRole": "EVERYTHING",
     "year": "2016",
-    "category":category.PERSONAL,
+    "category":"PERSONAL PROJECT",
     "desc":"'Live life like it's a party! ...cause it is. It is a party.'<br/>"+ 
             "This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
     "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/LIAP.png"},
@@ -111,7 +104,7 @@ var Emps = [
     "pitch": "A puzzle game I actually enjoy playing",
     "MainRole": "EVERYTHING",
     "year": "2016",
-    "category":category.COMPANY,
+    "category":"COMPANY PROJECT",
     "desc":"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>"+
             "Tap away your sorrows by destroying your colorful world to a melodous tune.<br/>"+
             "Beat your friend's high scores in 2 differnt play modes and demand the mad props you deserve.",
@@ -121,7 +114,7 @@ var Emps = [
     "pitch": "A Sword-weilding VR Explosion",
     "MainRole": "AUDIO,PROGRAMMER",
     "year": "2016",
-    "category":category.COMPANY,
+    "category":"COMPANY PROJECT",
     "desc":"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.<br/>"+
             "Hack n' slash* your way through this feudal-Japan inspired world infused with the terror of advanced robotics."+
             "You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails."+
@@ -132,7 +125,7 @@ var Emps = [
     "pitch": "Text-Based Survivor Horror featuring dynamic Audio",
     "MainRole": "EVERYTHING",
     "year": "2018",
-    "category":category.PERSONAL,
+    "category":"PERSONAL PROJECT",
     "desc":"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>"+
             "and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>"+
             "Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>"+
@@ -143,7 +136,7 @@ var Emps = [
     "pitch": "Talk Humpty down from the wall. one way or another.",
     "MainRole": "AUDIO,DESIGNER",
     "year": "2018",
-    "category":category.PERSONAL,
+    "category":"PERSONAL PROJECT",
     "desc":"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>"+
             "and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>"+
             "Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>"+
@@ -154,7 +147,7 @@ var Emps = [
     "pitch": "The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
     "MainRole": "EVERYTHING",
     "year": "2018",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>"+
             "If you’re lucky, you will have enough flowers to appease the Flower God.",
     "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/IB-LD41-sm.gif"},
@@ -163,7 +156,7 @@ var Emps = [
     "pitch": "Save the world in a very round about way as an adorable Capybara",
     "MainRole": "EVERYTHING",
     "year": "2018",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"You are a Capybara and you're our only hope.<br/><br/>"+
             "Help a fellow get back his self confidence by chewing off the eyebrow hairs sprouting all up in the space between his 2 predominate brows (Uni-brow territory).<br/>"+
             "Put him back at full confidence and maybe… just maybe… he can salvage his relationship and save Milk Chocolate for EVERYBODY!<br/>"+
@@ -174,7 +167,7 @@ var Emps = [
     "pitch": "You are the new Slap Elder",
     "MainRole": "EVERYTHING",
     "year": "2018",
-    "category":category.JAM,
+    "category":"GAME JAM",
     "desc":"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>"+
             "He comes to you for your help. As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>"+
             "Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
@@ -188,4 +181,4 @@ var Emps = [
    "desc":"It's a hermit eat hermit world out there (looking at you introverts), and Shelldon is doing his best to survive.<br/>"+
             "Collect shells to build your house.",
    "img":"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/Shelldon_0.png"}
-  ];
+  ]
