@@ -1,7 +1,7 @@
 [{
 		"id": 0,
 		"name": "Grave Robin",
-		"pitch": "Top Down Stealth Game for Robin Graves... Grave Robin...",
+		"pitch": "Top Down Stealth Game for Robin Graves",
 		"MainRole": "AUDIO",
 		"year": 2012,
 		"category": "GAME JAM",
@@ -42,7 +42,7 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/cardiac_0.png",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made in flashpunk",
+			"This game was made using UNITY PRO",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you",
 			"Game Jam Page[DELIMINATOR]http://2013.globalgamejam.org/2013/cardiac-arrest-3"
@@ -59,7 +59,7 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/P_T.png",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made in flashpunk",
+			"This is a FLASH game made in flashpunk",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you"
 		]
@@ -141,8 +141,6 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/STAHPE.png",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made in flashpunk",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you",
 			"Game Jam Page[DELIMINATOR]https://globalgamejam.org/2015/games/super-turbo-awesome-hell-prison-escape"
 		]
@@ -157,8 +155,6 @@
 		"desc": "'Live life like it's a party! ...cause it is. It is a party.'<br/>This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/ChurchOfBob.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made in flashpunk",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you",
 			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
@@ -176,8 +172,6 @@
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made in flashpunk",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made... for you",
 			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
 		]
 	},
@@ -224,7 +218,7 @@
 		"desc": "This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"<iframe width='100%' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"This game was made in flashpunk",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you"
