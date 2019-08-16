@@ -147,8 +147,25 @@
 			"Game Jam Page[DELIMINATOR]https://globalgamejam.org/2015/games/super-turbo-awesome-hell-prison-escape"
 		]
 	},
-	{
+ 	{
 		"id": 9,
+		"name": "Church Of Bob",
+		"pitch": "Religious cults are in this year, right?",
+		"MainRole": "PROGRAMMING, AUDIO",
+		"year": 2016,
+		"category": "Game Jam",
+		"desc": "'Live life like it's a party! ...cause it is. It is a party.'<br/>This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/ChurchOfBob.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
+		]
+	},
+	{
+		"id": 10,
 		"name": "Life Is A Party",
 		"pitch": "Live out your short life and make it the best bleeping party you can.",
 		"MainRole": "EVERYTHING",
@@ -165,7 +182,7 @@
 		]
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"name": "Audible Bits",
 		"pitch": "A puzzle game I actually enjoy playing",
 		"MainRole": "EVERYTHING",
@@ -181,24 +198,24 @@
 		]
 	},
 	{
-		"id": 11,
-		"name": "Tale Of Swords (2018)",
+		"id": 12,
+		"name": "Tale Of Swords",
 		"pitch": "A Sword-weilding VR Explosion",
 		"MainRole": "AUDIO,PROGRAMMER",
 		"year": 2016,
 		"category": "COMPANY PROJECT",
 		"desc": "Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.<br/>Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.<br/>You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.<br/>You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
-		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/profile.png",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/TOS_1.gif",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made in flashpunk",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you",
-			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/tale-of-swords"
+			"itch.io Page[DELIMINATOR]https://globalgamejam.org/2016/games/church-bob"
 		]
 	},
 	{
-		"id": 12,
+		"id": 13,
 		"name": "Apple A Day: Intro",
 		"pitch": "Text-Based Survivor Horror featuring dynamic Audio",
 		"MainRole": "EVERYTHING",
@@ -214,7 +231,7 @@
 		]
 	},
 	{
-		"id": 13,
+		"id": 14,
 		"name": "Humpty (Debbie) Dumpty",
 		"pitch": "Talk Humpty down from the wall. one way or another.",
 		"MainRole": "AUDIO,DESIGNER",
@@ -231,7 +248,7 @@
 		]
 	},
 	{
-		"id": 14,
+		"id": 15,
 		"name": "Interdenominational BROwS",
 		"pitch": "The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
 		"MainRole": "EVERYTHING",
@@ -248,7 +265,7 @@
 		]
 	},
 	{
-		"id": 15,
+		"id": 16,
 		"name": "CapyBarbra: A New Brow",
 		"pitch": "Save the world in a very round about way as an adorable Capybara",
 		"MainRole": "EVERYTHING",
@@ -265,7 +282,7 @@
 		]
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"name": "SLAP HAPPY",
 		"pitch": "You are the new Slap Elder",
 		"MainRole": "EVERYTHING",
@@ -282,7 +299,7 @@
 		]
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"name": "Shelldon Makes a Home",
 		"pitch": "Play as a Hermit crab at the muse of an excited narrator",
 		"MainRole": "PROGRAMMER, AUDIO, DESIGNER",
