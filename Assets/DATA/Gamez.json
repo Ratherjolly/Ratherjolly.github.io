@@ -223,7 +223,7 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
 		"content": [
-			"<iframe style='padding-left:20%' width='60%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
