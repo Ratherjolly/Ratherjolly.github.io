@@ -59,9 +59,10 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/P_T.png",
 		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/Ted_Walking.gif",
 			"NO_EXPANTION is a pixelated survivor-horror game.<br/>This was a 2-month solo project I took on to better understand/manage all aspects of what it takes to complete a full game.<br/>To make NO_EXPANSION I utilized:<br/>PROGRAMMING: FLASHPUNK, Flashdevelop<br/> AUDIO: Cubase, Soundforge, Audacity<br/> VISUALS: Photoshop, Microsoft Paint<br/> The game ended up as a two-level explorer, but the knowledge gained from this project far exceeded the proverbial 'two-levels'.",
 			"This is a FLASH game made in flashpunk",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			
 			"This game was made... for you"
 		]
 	},
@@ -75,7 +76,6 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/profile.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made in flashpunk",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you"
@@ -171,7 +171,7 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/LIAP.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/BirdMan.gif",
 			"'Live life like it's a party! ...cause it is. It is a party.'<br/>This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
 			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
 		]
@@ -186,9 +186,13 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AB_0.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>Tap away your sorrows by destroying your colorful world to a melodous tune.<br/>Beat your friend's high scores in 2 differnt play modes and demand the mad props you deserve.",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_0.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_1.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_2.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_3.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_4.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_5.png",
 			"This game was made... for you"
 		]
 	},
@@ -221,7 +225,11 @@
 		"content": [
 			"<iframe style='padding-left:20%' width='60%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-2.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-3.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-4.jpg",
 			"This game was made... for you"
 		]
 	},
@@ -252,7 +260,7 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/IB-LD41-sm.gif",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LD41.jpg",
 			"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>If you’re lucky, you will have enough flowers to appease the Flower God.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
 			"This game was made... for you",
@@ -271,7 +279,9 @@
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/Capybarbra.gif",
 			"You are a Capybara and you're our only hope.<br/><br/>Help a fellow get back his self confidence by chewing off the eyebrow hairs sprouting all up in the space between his 2 predominate brows (Uni-brow territory).<br/>Put him back at full confidence and maybe… just maybe… he can salvage his relationship and save Milk Chocolate for EVERYBODY!<br/>(This will probably make more sense after a play…)",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/CapyBarbra_0.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/CapyBarbra_1.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/CapyBarbra_2.jpg",
 			"This game was made... for you",
 			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/42/capybarbra-a-new-brow"
 		]
