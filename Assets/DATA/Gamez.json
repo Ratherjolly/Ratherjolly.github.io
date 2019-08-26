@@ -253,7 +253,7 @@
 	{
 		"id": 15,
 		"name": "Interdenominational BROwS",
-		"pitch": "The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
+		"pitch": "Dynamic Split Screen! | 2d/3d Perspectives! | Local Coop!",
 		"MainRole": "EVERYTHING",
 		"year": 2018,
 		"category": "GAME JAM",
@@ -261,9 +261,9 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/IB-LD41-sm.gif",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LD41.jpg",
+			"The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
 			"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>If you’re lucky, you will have enough flowers to appease the Flower God.",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made... for you",
+			"<iframe height='400px' src='https://www.youtube.com/embed/IUjvukr54GQ?rel=0&amp;start=711' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/41/interdenominational-brows"
 		]
 	},
@@ -294,10 +294,11 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/SlapHappy_3.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_0.jpg",
 			"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>He comes to you for your help. As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_1.jpg",
 			"This game was made... for you",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_2.jpg",
 			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/43/slap-happy"
 		]
 	},
