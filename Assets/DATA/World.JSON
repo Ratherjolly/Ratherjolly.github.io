@@ -1,0 +1,109 @@
+
+/*add triggers from objects and people*/
+var Atlas = [{
+    "triggers": [
+        {
+            "id":"a0-t0",
+            "name" : "isTalking",
+            "desc" : "This sets when the player is talking",
+            "state" : 0
+        },
+        {
+            "id":"a0-t0",
+            "name" : "hasTarget",
+            "desc" : "This is tracked by a collision and/or raycasts",
+            "state" : 0,
+            "targets":[]
+        }
+    ]
+}];
+
+
+var People = [{
+    "id": 0,
+    "name": "Matt Forkholz",
+    "age": 28,
+    "favMusic": "GAME JAM",
+    "desc": "",
+    "catchPhrases": [
+        "Have you tried turning it off and on again?",
+        "People. What a bunch of Bastards.",
+        "Bullocks!"
+    ],
+    "triggers": [
+        {
+            "id":"p0-t0",
+            "name" : "conversed",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0
+        },
+        {
+            "id":"p0-t1",
+            "name" : "Admin",
+            "desc" : "If this set, this person is ",
+            "state" : 0
+        }
+    ],
+    "events":[
+        {
+            "id":"p0-e0",
+            "name" : "Silence",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0,
+            "triggersNeeded" : [ "p0-t0", "contributor" ],
+            "CurrentPlayerStateNeeded" : [ "talking?p0" ]
+        },
+        {
+            "id":"p0-e1",
+            "name" : "Silence",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0,
+            "triggersNeeded" : [ "p0-t0", "contributor" ],
+            "CurrentPlayerStateNeeded" : [ "talking?p0" ]
+        }
+    ]
+},
+{
+    "id": 0,
+    "name": "Matt Forkholz",
+    "age": 28,
+    "favMusic": "GAME JAM",
+    "desc": "",
+    "catchPhrases": [
+        "Have you tried turning it off and on again?",
+        "People. What a bunch of Bastards.",
+        "Bullocks!"
+    ],
+    "triggers": [
+        {
+            "id":"p0-t0",
+            "name" : "conversed",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0
+        },
+        {
+            "id":"p0-t1",
+            "name" : "Admin",
+            "desc" : "If this set, this person is ",
+            "state" : 0
+        }
+    ],
+    "events":[
+        {
+            "id":"p0-e0",
+            "name" : "Silence",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0,
+            "triggersNeeded" : [ "p0-t0", "contributor" ],
+            "CurrentPlayerStateNeeded" : [ "talking?p0" ]
+        },
+        {
+            "id":"p0-e1",
+            "name" : "Silence",
+            "desc" : "This sets when the player talks to Matt",
+            "state" : 0,
+            "triggersNeeded" : [ "p0-t0", "contributor" ],
+            "CurrentPlayerStateNeeded" : [ "talking?p0" ]
+        }
+    ]
+}]
