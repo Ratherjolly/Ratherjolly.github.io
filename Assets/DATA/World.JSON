@@ -50,6 +50,7 @@ var People = [{
             "name" : "Silence",
             "desc" : "This sets when the player talks to Matt",
             "state" : 0,
+            "priority":9000,
             "triggersNeeded" : [ "p0-t0", "contributor" ],
             "CurrentPlayerStateNeeded" : [ "talking?p0" ]
         },
@@ -58,6 +59,7 @@ var People = [{
             "name" : "Silence",
             "desc" : "This sets when the player talks to Matt",
             "state" : 0,
+            "priority":9000,
             "triggersNeeded" : [ "p0-t0", "contributor" ],
             "CurrentPlayerStateNeeded" : [ "talking?p0" ]
         }
@@ -94,6 +96,7 @@ var People = [{
             "name" : "Silence",
             "desc" : "This sets when the player talks to Matt",
             "state" : 0,
+            "priority":9000,
             "triggersNeeded" : [ "p0-t0", "contributor" ],
             "CurrentPlayerStateNeeded" : [ "talking?p0" ]
         },
@@ -102,6 +105,7 @@ var People = [{
             "name" : "Silence",
             "desc" : "This sets when the player talks to Matt",
             "state" : 0,
+            "priority":9000,
             "triggersNeeded" : [ "p0-t0", "contributor" ],
             "CurrentPlayerStateNeeded" : [ "talking?p0" ]
         }
