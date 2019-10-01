@@ -1,0 +1,194 @@
+[
+	{
+		"id": 5,
+		"name": "WHEN THINGS FALL APART",
+		"pitch": "Side Scrolling Inventory Management Game based on your mood",
+		"MainRole": "PROGRAMMER,AUDIO",
+		"year": 2014,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/wtfa_ss_gameplay.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"Game Jam Page[DELIMINATOR]https://globalgamejam.org/2014/games/when-things-fall-apart"
+		]
+	},
+	{
+		"id": 7,
+		"name": "Planet Crasher",
+		"pitch": "Protect your planet from astroids and save the astronaunts",
+		"MainRole": "AUDIO",
+		"year": 2014,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/PlanetCrasher_1.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_1.png",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_2.png",
+			"This game was made... for you",
+			"Ludum Dare page[DELIMINATOR]http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19195"
+		]
+	},
+	{
+		"id": 10,
+		"name": "Life Is A Party",
+		"pitch": "Live out your short life and make it the best bleeping party you can.",
+		"MainRole": "EVERYTHING",
+		"year": 2016,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/LIAP.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/BirdMan.gif",
+			"'Live life like it's a party! ...cause it is. It is a party.'<br/>This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
+			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
+		]
+	},
+	{
+		"id": 11,
+		"name": "Audible Bits",
+		"pitch": "A puzzle game I actually enjoy playing",
+		"MainRole": "EVERYTHING",
+		"year": 2016,
+		"category": "COMPANY PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AB_0.png",
+		"content": [
+			"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>Tap away your sorrows by destroying your colorful world to a melodous tune.<br/>Beat your friend's high scores in 2 differnt play modes and demand the mad props you deserve.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_0.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_1.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_2.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_3.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_4.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_5.png",
+			"This game was made... for you"
+		]
+	},
+	{
+		"id": 12,
+		"name": "Tale Of Swords",
+		"pitch": "A Sword-weilding VR Explosion",
+		"MainRole": "AUDIO,PROGRAMMER",
+		"year": 2018,
+		"category": "COMPANY PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/TOS_2.gif",
+		"content": [
+			"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.<br/>Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.<br/>You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.<br/>You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/tale-of-swords"
+		]
+	},
+	{
+		"id": 13,
+		"name": "Apple A Day: Intro",
+		"pitch": "Text-Based Survivor Horror featuring dynamic Audio",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "PERSONAL PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
+		"content": [
+			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-2.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-3.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-4.jpg",
+			"This game was made... for you"
+		]
+	},
+	{
+		"id": 14,
+		"name": "Humpty (Debbie) Dumpty",
+		"pitch": "Talk Humpty down from the wall. one way or another.",
+		"MainRole": "AUDIO,DESIGNER",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/HumptyDebDumpty.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/humptydumpty"
+		]
+	},
+	{
+		"id": 15,
+		"name": "Interdenominational BROwS",
+		"pitch": "Dynamic Split Screen! | 2d/3d Perspectives! | Local Coop!",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/IB-LD41-sm.gif",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LD41.jpg",
+			"The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
+			"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>If you’re lucky, you will have enough flowers to appease the Flower God.",
+			"<iframe height='400px' src='https://www.youtube.com/embed/IUjvukr54GQ?rel=0&amp;start=711' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/41/interdenominational-brows"
+		]
+	},
+	{
+		"id": 16,
+		"name": "CapyBarbra: A New Brow",
+		"pitch": "Save the world in a very round about way as an adorable Capybara",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/CapyBarbra_0.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/Capybarbra.gif",
+			"You are a Capybara and you're our only hope.<br/><br/>Help a fellow get back his self confidence by chewing off the eyebrow hairs sprouting all up in the space between his 2 predominate brows (Uni-brow territory).<br/>Put him back at full confidence and maybe… just maybe… he can salvage his relationship and save Milk Chocolate for EVERYBODY!<br/>(This will probably make more sense after a play…)",
+			"<iframe height='400px' src='https://www.youtube.com/embed/-osF36Qsiuo?start=4745' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/CapyBarbra_2.jpg",
+			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/42/capybarbra-a-new-brow"
+		]
+	},
+	{
+		"id": 17,
+		"name": "SLAP HAPPY",
+		"pitch": "You are the new Slap Elder",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/SlapHappy_3.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_0.jpg",
+			"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>He comes to you for your help. As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_1.jpg",
+			"This game was made... for you",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_2.jpg",
+			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/43/slap-happy"
+		]
+	},
+	{
+		"id": 18,
+		"name": "Shelldon Makes a Home",
+		"pitch": "Play as a Hermit crab at the muse of an excited narrator",
+		"MainRole": "PROGRAMMER,AUDIO,DESIGNER",
+		"year": 2019,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/Shelldon_0.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"It's a hermit eat hermit world out there (looking at you introverts), and Shelldon is doing his best to survive.<br/>Collect shells to build your house.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"itch.io Page[DELIMINATOR]https://ratherjolly.itch.io/shelldon-makes-a-home"
+		]
+	}
+]
