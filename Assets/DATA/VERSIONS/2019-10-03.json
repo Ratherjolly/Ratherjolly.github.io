@@ -4,7 +4,7 @@
 		"name": "MATT SPONHOLZ",
 		"pitch": "A Duel-child-Wielding Game Dev with a passion for creating stuff",
 		"MainRole": "PROGRAMMER,AUDIO",
-		"year": 90s kid,
+		"year": 2019,
 		"category": "WAT!",
 		"desc": "",
 		"img": "",
@@ -139,10 +139,11 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/HumptyDebDumpty.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/HDD_1.png",
 			"Sometimes an egg just gets stuck up on a wall. It isn't really the egg's fault that it is up there. Maybe it belongs up there? Who knows?",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/HDD_2.png",
 			"Maybe you can talk some sense into Humpty? I don't know, man. It's up to you. I don't want any part of this. You gotta make these decisions yourself.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/HDD_3.png",
 			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/humptydumpty"
 		]
 	},
@@ -191,9 +192,10 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/SlapHappy_3.png",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_0.jpg",
-			"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>He comes to you for your help. As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
+			"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>He comes to you for your help.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_1.jpg",
-			"This game was made... for you",
+			"As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
+			"<iframe height='400px' src='https://www.youtube.com/embed/uZuUnksM0WM?start=2687' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_2.jpg",
 			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/43/slap-happy"
 		]
@@ -208,10 +210,11 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/Shelldon_0.png",
 		"content": [
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_1.jpg",
 			"It's a hermit eat hermit world out there (looking at you introverts), and Shelldon is doing his best to survive.<br/>Collect shells to build your house.",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made... for you",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_1.jpg",
+			"Delight in the Narration of on onlooking fellow!",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_3.jpg",
 			"itch.io Page[DELIMINATOR]https://ratherjolly.itch.io/shelldon-makes-a-home"
 		]
 	}
