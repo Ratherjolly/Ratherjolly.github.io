@@ -1,0 +1,211 @@
+[
+	{
+		"id": 0,
+		"name": "MATT SPONHOLZ",
+		"pitch": "A Duel-child-Wielding Game Dev with a passion for creating stuff",
+		"MainRole": "PROGRAMMER,AUDIO",
+		"year": 2019,
+		"category": "WAT!",
+		"desc": "",
+		"img": "",
+		"content": [
+			"<H3>BACKGROUND</H3>Little Matty grew up in Northern Wisconsin, USA.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LittleMatty.jpg",
+			"Surrounded by scenic bouts of nature; he felt most at home in front of his Windows 95.",
+			"<H3>EDUCATION</H3>Matt Graduated with a Bachelor's Degree in Computer Science with an emphasis in Game Development (Herzing University | Madison, WI USA).",
+			"<H3>CURRENT</H3>Adult-Matt resides in Milwaukee, WI. He works a day job as an Application Developer and makes games and whatever cool tech he can get his grubby little mitts on during his lunches and after work.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/studyLowRes.png",
+			"OH! And He's a Dad now!",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/DadLife.JPG",
+      "Come! Gaze upon his genetic creations!",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/DadLife4_2x1.jpg",
+			""
+		]
+	},
+	{
+		"id": 7,
+		"name": "Planet Crasher",
+		"pitch": "Protect your planet from astroids and save the astronaunts",
+		"MainRole": "AUDIO",
+		"year": 2014,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/PlanetCrasher_1.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_1.png",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_2.png",
+			"This game was made... for you",
+			"Ludum Dare page[DELIMINATOR]http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19195"
+		]
+	},
+	{
+		"id": 10,
+		"name": "Life Is A Party",
+		"pitch": "'Live life like it's a party! ...cause it is. It's literally a party.'",
+		"MainRole": "EVERYTHING",
+		"year": 2016,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/LIAP.png",
+		"content": [
+      "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LIAP1.jpg",
+      "This game is a proof of concept made on the side of life for a Game Competition #AdventureJam2016",
+			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/s3BtvU2ZsL4' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"This title is honestly pretty rough, but I'm still in love with the idea of what this game could be.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LIAP2.jpg",
+      "This game is also packed with numerous references to my favorite band, <a href='https://thesewimps.bandcamp.com/'>Wimps</a>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/LIAP3.jpg",
+			"GameJolt Page[DELIMINATOR]https://gamejolt.com/games/life-is-a-party/146434"
+		]
+	},
+	{
+		"id": 11,
+		"name": "Audible Bits",
+		"pitch": "A puzzle game I actually enjoy playing",
+		"MainRole": "EVERYTHING",
+		"year": 2016,
+		"category": "COMPANY PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AB_0.png",
+		"content": [
+			"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>Tap away your sorrows by destroying your colorful world to a melodous tune.<br/>Beat your friend's high scores in 2 differnt play modes and demand the mad props you deserve.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_0.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_1.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_2.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_3.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_4.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB_5.png",
+			"This game was made... for you"
+		]
+	},
+	{
+		"id": 12,
+		"name": "Tale Of Swords",
+		"pitch": "A Sword-weilding VR Explosion",
+		"MainRole": "AUDIO,PROGRAMMER",
+		"year": 2018,
+		"category": "COMPANY PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/TOS_2.gif",
+		"content": [
+			"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.<br/>Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.<br/>You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.<br/>You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
+			"This game was made in flashpunk",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"This game was made... for you",
+			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/tale-of-swords"
+		]
+	},
+	{
+		"id": 13,
+		"name": "Apple A Day: Intro",
+		"pitch": "Text-Based Survivor Horror featuring dynamic Audio",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "PERSONAL PROJECT",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
+		"content": [
+			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-2.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-3.jpg",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-4.jpg",
+			"This game was made... for you"
+		]
+	},
+	{
+		"id": 14,
+		"name": "Humpty (Debbie) Dumpty",
+		"pitch": "Talk Humpty down from the wall. one way or another.",
+		"MainRole": "AUDIO,DESIGNER",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/HumptyDebDumpty.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/HDD_1.png",
+			"Sometimes an egg just gets stuck up on a wall. It isn't really the egg's fault that it is up there. Maybe it belongs up there? Who knows?",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/HDD_2.png",
+			"Maybe you can talk some sense into Humpty? I don't know, man. It's up to you. I don't want any part of this. You gotta make these decisions yourself.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/HDD_3.png",
+			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/humptydumpty"
+		]
+	},
+	{
+		"id": 15,
+		"name": "Interdenominational BROwS",
+		"pitch": "Dynamic Split Screen! | 2d/3d Perspectives! | Local Coop!",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/IB-LD41-sm.gif",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/IB_1.jpg",
+			"The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
+			"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>If you’re lucky, you will have enough flowers to appease the Flower God.",
+			"<iframe height='400px' src='https://www.youtube.com/embed/IUjvukr54GQ?rel=0&amp;start=711' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/IB_2.jpg",
+      "Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/41/interdenominational-brows"
+		]
+	},
+	{
+		"id": 16,
+		"name": "CapyBarbra: A New Brow",
+		"pitch": "Save the world in a very round about way as an adorable Capybara",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/CapyBarbra_0.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/Capybarbra.gif",
+			"You are a Capybara and you're our only hope.<br/><br/>Help a fellow get back his self confidence by chewing off the eyebrow hairs sprouting all up in the space between his 2 predominate brows (Uni-brow territory).<br/>Put him back at full confidence and maybe… just maybe… he can salvage his relationship and save Milk Chocolate for EVERYBODY!<br/>(This will probably make more sense after a play…)",
+			"<iframe height='400px' src='https://www.youtube.com/embed/-osF36Qsiuo?start=4745' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/CapyBarbra_2.jpg",
+			"Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/42/capybarbra-a-new-brow"
+		]
+	},
+	{
+		"id": 17,
+		"name": "SLAP HAPPY",
+		"pitch": "You are the new Slap Elder",
+		"MainRole": "EVERYTHING",
+		"year": 2018,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/SlapHappy_3.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_0.jpg",
+			"You are the child of a slap elder. That is, a slap elder with crazy messed up hands (the kind of messed up that can only come from a lifetime of slapping).<br/>He comes to you for your help.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/SlapHappy_2.jpg",
+			"As an aspiring hand model, you know that helping him will totally jack up your lil mitts.<br/><br/>Will you SACRIFICE your gorgeous mitts for the happiness of everyone you know?",
+			"<iframe height='400px' src='https://www.youtube.com/embed/uZuUnksM0WM?start=2687' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"Slap happy has since been ported over to mobile for the ultimate interactive slapping experience!",
+      "<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2019 - WEEK 1 - (01/01/19 - 01/04/19)<br>After weeks of restless nights protecting my family from starstruck fans of my most recent <a href="https://twitter.com/hashtag/ludumdare?src=hash&amp;ref_src=twsrc%5Etfw">#ludumdare</a> game, SLAP HAPPY, I decided to satiate their demands and port it to <a href="https://twitter.com/hashtag/Android?src=hash&amp;ref_src=twsrc%5Etfw">#Android</a> / <a href="https://twitter.com/hashtag/AmazonFire?src=hash&amp;ref_src=twsrc%5Etfw">#AmazonFire</a><a href="https://twitter.com/hashtag/unity?src=hash&amp;ref_src=twsrc%5Etfw">#unity</a> <a href="https://twitter.com/hashtag/slaphappy?src=hash&amp;ref_src=twsrc%5Etfw">#slaphappy</a> <a href="https://twitter.com/hashtag/weeklybits?src=hash&amp;ref_src=twsrc%5Etfw">#weeklybits</a> <a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/gameblog?src=hash&amp;ref_src=twsrc%5Etfw">#gameblog</a> <a href="https://t.co/bFsOTH3ghR">pic.twitter.com/bFsOTH3ghR</a></p>&mdash; Matt Sponholz (@Ratherjolly) <a href="https://twitter.com/Ratherjolly/status/1081224288294891524?ref_src=twsrc%5Etfw">January 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>",
+      "Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/43/slap-happy"
+		]
+	},
+	{
+		"id": 18,
+		"name": "Shelldon Makes a Home",
+		"pitch": "Play as a Hermit crab at the muse of an excited narrator",
+		"MainRole": "PROGRAMMER,AUDIO,DESIGNER",
+		"year": 2019,
+		"category": "GAME JAM",
+		"desc": "",
+		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/Shelldon_0.png",
+		"content": [
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_1.jpg",
+			"It's a hermit eat hermit world out there (looking at you introverts), and Shelldon is doing his best to survive.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_2.jpg",
+			"Collect shells to build your house!",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/Shelldon_3.jpg",
+			"Be weary of others!",
+			"itch.io Page[DELIMINATOR]https://ratherjolly.itch.io/shelldon-makes-a-home"
+		]
+	}
+]
