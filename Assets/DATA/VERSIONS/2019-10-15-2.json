@@ -88,10 +88,11 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/GIF/TOS_2.gif",
 		"content": [
-			"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.<br/>Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.<br/>You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.<br/>You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
-			"This game was made in flashpunk",
+			"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.",
+			"Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
-			"This game was made... for you",
+			"You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.",
+			"You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
 			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/tale-of-swords"
 		]
 	},
@@ -106,13 +107,15 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
 		"content": [
 			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
-			"This story was created Twine.  It was the successful collaberation of a bunch of my javascript experiements<br/>and was propelled by the Brilliance that is <a href='https://twinery.org'>Twine</a>.<br/>Only issue with copious custom Javascript libraries on a web platform is... compatability.<br/>From the start I set the goal of making this targeted on (Desktop) Chrome only.<br/>",
+			"This experience is the love child of Twine and a ton of experimental JS/CSS functionality I devloped for the fun of it.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
+			"The only issue with copious amounts of custom JS libraries on a web platform is... compatability.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
+			"From a recent Chrome update, sadly, this experience is no longer playable.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-2.jpg",
+			"All the same, this was a blast to make and I would love to pick this up again if the interest were to arise.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-3.jpg",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-4.jpg",
-			"This game was made... for you"
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-4.jpg"
 		]
 	},
 	{
@@ -145,7 +148,7 @@
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/IB_1.jpg",
 			"The Multiplayer Love child of a 2D Top-down farming simulator and a 3D First-Person Shooter",
-      "<iframe height='400px' src='https://www.youtube.com/embed/IUjvukr54GQ?rel=0&amp;start=711' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
+			"<iframe height='400px' src='https://www.youtube.com/embed/IUjvukr54GQ?rel=0&amp;start=711' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
 			"P1 has been neglecting the Flower God. With the help of his interdenominational friend, P2, harvest the flowerbeds of the nearby AngryPeep Garden.<br/>If you’re lucky, you will have enough flowers to appease the Flower God.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/IB_2.jpg",
       "Ludum Dare Page[DELIMINATOR]https://ldjam.com/events/ludum-dare/41/interdenominational-brows"
