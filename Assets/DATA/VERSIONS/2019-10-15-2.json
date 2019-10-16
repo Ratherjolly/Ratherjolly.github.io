@@ -25,7 +25,7 @@
 	{
 		"id": 7,
 		"name": "Planet Crasher",
-		"pitch": "Protect your planet from astroids and save the astronaunts",
+		"pitch": "Protect your planet from asteroids and save the astronauts",
 		"MainRole": "AUDIO",
 		"year": 2014,
 		"category": "GAME JAM",
@@ -33,7 +33,7 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/PlanetCrasher_1.png",
 		"content": [
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_1.png",
-			"Planet Crasher was made over a weekend with some great freinds",
+			"Planet Crasher was made over a weekend with some great friends",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/PlanetCrasher_2.png",
 			"This game was made... for you",
 			"Ludum Dare page[DELIMINATOR]http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=19195"
@@ -69,9 +69,9 @@
 		"desc": "",
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AB_0.png",
 		"content": [
-			"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>Tap away your sorrows by destroying your colorful world to a melodous tune.<br/>Beat your friend's high scores in 2 differnt play modes and demand the mad props you deserve.",
+			"Audible Bits is a timed based puzzle game featuring dynamic color/Sound Manipulation.<br/>Tap away your sorrows by destroying your colorful world to a melodious tune.<br/>Beat your friend's high scores in 2 different play modes and demand the mad props you deserve.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB3_1.png",
-			"Audible Bits features Achievments, Leaderboards and shop to purchase additional currentcy<BR>And yes, this currency can also be earned in game :)",
+			"Audible Bits features Achievements, Leaderboards and shop to purchase additional currency<BR>And yes, this currency can also be earned in game :)",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AB3_2.png",
 			"Sadly, I moved on to other projects and this game was eventually taken off the Google Play Store (outdated APIs)",
 			"To make it up to you, below is a link to one of my favorite site ever. Enjoy!",
@@ -81,7 +81,7 @@
 	{
 		"id": 12,
 		"name": "Tale Of Swords",
-		"pitch": "A Sword-weilding VR Explosion",
+		"pitch": "A Sword-wielding VR Explosion",
 		"MainRole": "AUDIO,PROGRAMMER",
 		"year": 2018,
 		"category": "COMPANY PROJECT",
@@ -90,8 +90,9 @@
 		"content": [
 			"Tale of Swords is a re-imagined take on the legend of the nine-tailed fox.",
 			"Hack n' slash your way through this feudal-Japan inspired world infused with the terror of advanced robotics.",
-			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/GraveRobin.png",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/TOS_1.gif",
 			"You are the embodiment of the nine-tailed fox. Each weapon represents one of your tails.",
+			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/TOS_3.gif",
 			"You must reclaim each weapon by slicing your way through hordes of enemies in order to reclaim each sword and become The Wielder.",
 			"itch.io Page[DELIMINATOR]https://battlerock.itch.io/tale-of-swords"
 		]
@@ -107,9 +108,9 @@
 		"img": "https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/1x1/AAP-0.png",
 		"content": [
 			"<iframe width='100%' height='400px' src='https://www.youtube.com/embed/uzFcv1XouIw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>",
-			"This experience is the love child of Twine and a ton of experimental JS/CSS functionality I devloped for the fun of it.",
+			"This experience is the love child of Twine and a ton of experimental JS/CSS functionality I developed for the fun of it.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-0.jpg",
-			"The only issue with copious amounts of custom JS libraries on a web platform is... compatability.",
+			"The only issue with copious amounts of custom JS libraries on a web platform is... compatibility.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-1.jpg",
 			"From a recent Chrome update, sadly, this experience is no longer playable.",
 			"https://raw.githubusercontent.com/Ratherjolly/Ratherjolly.github.io/master/Assets/IMG/AAP-2.jpg",
